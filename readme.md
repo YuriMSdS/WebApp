@@ -1,1 +1,7 @@
-Neste repositório estarei postando os trabalhos que estarei fazendo durante o meu curso de Análise e Desenvolvimento de Sistemas, em qualquer matéria voltada à Web
+O Objetivo deste reposotório é apresentar algumas coisas que estarei aprendendo na matéria de Aplicação Web durante a faculdade, no presente momento aqui está:
+   •Trabalho de criação de formulário
+   
+   
+   TECNOLOGIAS:
+   -HTML
+   -CSS
